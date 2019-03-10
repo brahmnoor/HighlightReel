@@ -1,3 +1,10 @@
+
+# Highlight Reel
+Programmatically generates a series of highlight clips from a given stream VOD link.
+![HighlightReel](https://raw.githubusercontent.com/brahmnoor/HighlightReel/master/HighlightReel.png)
+
+Why don't you [demo me](http://highlight-reel.net)?
+
 ## What it does
 Programmatically generates a series of highlight clips from a given stream VOD link. We realized that chat frequency at any time step could give a good estimate about the quality of the clip, which boiled our problem down into detecting peaks in time series data. 
 
